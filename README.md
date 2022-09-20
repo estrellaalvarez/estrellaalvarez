@@ -5,7 +5,7 @@
 
 currenly working on:
 
-![Val Tracker]("https://i.imgur.com/VrMcMFE.png")
+![Val Tracker](https://i.imgur.com/VrMcMFE.png)
 
 
 <!---
