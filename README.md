@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Game Design and React
 - 📫 How to reach me heaviside@yahoo.com
 
-currenly working on:
+Currenly working on designing a VALORANT Tracker App:
 
 ![Val Tracker](https://i.imgur.com/VrMcMFE.png)
 
