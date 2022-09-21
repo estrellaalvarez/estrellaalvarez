@@ -4,10 +4,11 @@
 - 📫 How to reach me heaviside@yahoo.com
 
 Currenly working on designing a VALORANT Tracker App:
+## Progress
+(![image](https://i.imgur.com/sm28Apx.png)
 
+## Wireframes/Original Ideas
 ![Val Tracker](https://i.imgur.com/VrMcMFE.png)
-
-![Progress](![image](https://i.imgur.com/sm28Apx.png)
 
 
 
