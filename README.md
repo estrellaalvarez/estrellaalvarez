@@ -7,6 +7,9 @@ Currenly working on designing a VALORANT Tracker App:
 
 ![Val Tracker](https://i.imgur.com/VrMcMFE.png)
 
+![Progress](![image](https://user-images.githubusercontent.com/109836001/191612032-6520bbef-3829-4f3a-8d60-450a067f8461.png))
+
+
 
 <!---
 estrellaalvarez/estrellaalvarez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
