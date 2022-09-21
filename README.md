@@ -5,7 +5,8 @@
 
 Currenly working on designing a VALORANT Tracker App:
 ## Progress
-(![image](https://i.imgur.com/sm28Apx.png)
+![image](https://i.imgur.com/sm28Apx.png)
+![image](https://i.imgur.com/d1MDsye.png)
 
 ## Wireframes/Original Ideas
 ![Val Tracker](https://i.imgur.com/VrMcMFE.png)
