@@ -1,5 +1,5 @@
-<h1 align="center">I'm Estrella Alvarez</h1>
-<h3 align="center">I'm a creative software engineering student with a passion for designing, gaming, and technology. I strive to constantly be learning, growing, and inclusive.</h3>
+<h1 align="center">Estrella Alvarez</h1>
+<h3 align="center">Hi! I'm a creative software engineering student with a passion for designing, gaming, and technology. I strive to constantly be learning, growing, and inclusive.</h3>
 
 - 🔭 I’m currently working on [VALORANT Stats Tracker](https://github.com/estrellaalvarez/Project_3_Valorant)
 
