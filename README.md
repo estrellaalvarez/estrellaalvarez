@@ -1,7 +1,7 @@
 <h1 align="center">Estrella Alvarez</h1>
 <h3 align="center">Hi! I'm a creative software engineering student with a passion for designing, gaming, and technology. I strive to constantly be learning, growing, and inclusive.</h3>
 
-- 🔭 I’m currently working on [VALORANT Stats Tracker](https://github.com/estrellaalvarez/Project_3_Valorant)
+- 🔭 I’m currently working on [Pane Instant Messaging App](https://github.com/estrellaalvarez/PANE-Chat-App/blob/main/README.md) and [VALORANT Stats Tracker](https://github.com/estrellaalvarez/Project_3_Valorant)
 
 - 🌱 I’m currently learning **React.js, UX/UI Design**
 
