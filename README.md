@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Pane Instant Messaging App](https://github.com/estrellaalvarez/PANE-Chat-App/blob/main/README.md) and [VALORANT Stats Tracker](https://github.com/estrellaalvarez/Project_3_Valorant)
 
-- 🌱 I’m currently learning **React.js, UX/UI Design**
+- 🌱 I’m currently learning **React.js, Java, UX/UI Design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/estrellaalvarez?tab=repositories](https://github.com/estrellaalvarez?tab=repositories)
 
