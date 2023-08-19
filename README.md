@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/estrellaalvarez?tab=repositories](https://github.com/estrellaalvarez?tab=repositories)
 
-- 💬 Ask me about **Video Games!!**
+- 💬 Ask me about **Video Games!**
 
 - 📫 How to reach me **estrellaaalvarez@yahoo.com**
 
